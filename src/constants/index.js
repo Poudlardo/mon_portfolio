@@ -170,27 +170,17 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Rédaction et modification d'articles sourcés en langue française. Sujets culturels et de Tech",
+    name: "Wikipedia France",
+    link: "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Poudlardo",
+    image: "http://img3.wikia.nocookie.net/__cb20110206214754/worldlanguages/images/6/63/Wikipedia-logo.png",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Modification cartographiques des voies, infrastructures, et versement de traces GPX",
+    name: "OpenStreetMap",
+    link: "https://www.openstreetmap.org/user/poudlardo/history",
+    image: "https://supporting.openstreetmap.org/wp-content/uploads/2018/12/Public-images-osm_logo.png",
   },
 ];
 

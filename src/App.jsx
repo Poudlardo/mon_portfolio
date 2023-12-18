@@ -14,6 +14,7 @@ const App = () => {
         <Tech />
         <Experience />
         <Works />
+        <Feedbacks/>
         <div className='bg-cover bg-no-repeat bg-center relative z-0'>
           <Contact />
           <StarsCanvas />
