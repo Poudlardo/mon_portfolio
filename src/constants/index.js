@@ -226,7 +226,7 @@ const projects = [
       },
     ],
     image: allocine,
-    source_code_link: "https://https://github.com/Poudlardo/Allocine2Letterboxd",
+    source_code_link: "https://github.com/Poudlardo/Allocine2Letterboxd",
   },
   {
     name: "Chronomètre Pomodoro",
