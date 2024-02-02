@@ -29,6 +29,7 @@ import odinproject from "./company/odinproject.png";
 import allocine from "./allocine.png";
 import dedrasite from "./dedrasite.png";
 import pomodoro from "./pomodoro.png";
+import meteoapp from "./meteo-app.png"
 
 export {
   logo,
@@ -57,6 +58,7 @@ export {
   odinproject,
   freecodecamp,
   pomodoro,
+  meteoapp,
   dedrasite,
   allocine
 };

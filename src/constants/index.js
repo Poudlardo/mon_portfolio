@@ -20,6 +20,7 @@ import {
   odinproject,
   freecodecamp,
   pomodoro,
+  meteoapp,
   dedrasite,
   allocine,
   threejs,
@@ -187,6 +188,30 @@ const testimonials = [
 const projects = [
 
   {
+    name: "Météo Web App",
+    description:
+      "Web App Météo responsive utilisant l'API d'OpenWeatherMap. Recherche de lieux dans le monde, affichage des tempéarature actuelles et à venir",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Next.js",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "APIs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: meteoapp,
+    source_code_link: "https://github.com/Poudlardo/meteo-app",
+  },{
     name: "Site Web Dedra Games",
     description:
       "Site vitrine du studio de jeu vidéo parisien Dedra Games.",
@@ -217,7 +242,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "scraping",
+        name: "web scraping",
         color: "green-text-gradient",
       },
       {
